@@ -14,4 +14,6 @@ avator = Ex6_media.Movie("Avatar",
 #avator.show_trailor()
 
 movie = [toy_story, avator]
-fresh_tomatoes.open_movies_page(movie)
+#fresh_tomatoes.open_movies_page(movie)
+#print(Ex6_media.Movie.VALID_RATINGS)
+print(Ex6_media.Movie.__name__)
